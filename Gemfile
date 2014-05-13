@@ -50,3 +50,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#Heroku addon newrelic:stark
+gem "newrelic_rpm"
